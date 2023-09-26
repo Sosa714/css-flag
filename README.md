@@ -33,6 +33,6 @@ The project consists of a basic HTML structure that represents the flag elements
 
 ## Usage
 
-Feel free to view the HTML file to see the recreated flag of Laos. This project serves as an example of how CSS can be creatively used to recreate complex designs, such as national flags, by leveraging positioning properties and CSS specificity.
+Feel free to explore the HTML file to see how I recreated flag of Laos. This project serves as an example of how CSS can be creatively used to recreate complex designs, such as national flags, by leveraging positioning properties and CSS specificity.
 
 Enjoy looking at the CSS recreation of the flag of Laos!
