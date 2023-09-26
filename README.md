@@ -1,7 +1,5 @@
 # css-flag
 
-# CSS Flag Project - Flag of Laos Recreation
-
 Welcome to the **CSS Flag Project**! In this project, I successfully recreated the flag of Laos using only internal CSS, without altering any of the existing HTML code. This challenge required the utilization of various CSS properties, such as positioning and combinators like child and descendant, to achieve the desired flag design.
 
 ## Project Overview
